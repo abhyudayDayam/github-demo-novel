@@ -1,5 +1,6 @@
-Characters-
-
+============
+Characters
+============
 Tom, Dick and Harry
 
 Tom is a happy guy
